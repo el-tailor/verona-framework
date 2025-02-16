@@ -13,11 +13,5 @@
     "require": {
         "php": ">=8.2",
         "verona/component" : "^1.0"
-    },
-    "repositories": {
-        "component": {
-            "type": "path",
-            "url": "../component"
-        }
     }
 }
