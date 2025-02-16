@@ -1,0 +1,12 @@
+<?php
+
+use Verona\Component\Console\Application;
+
+require_once dirname(__DIR__) . "/vendor/autoload.php";
+
+if (php_sapi_name() == "cli") {
+    new Application($argv, dirname(__DIR__));
+    exit();
+}
+
+echo "You must run this file in command line";

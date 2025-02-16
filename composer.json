@@ -1,0 +1,22 @@
+{
+    "name": "verona/verona",
+    "description": "A simple and light PHP MVC Framework",
+    "type": "project",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.2",
+        "verona/component" : "^1.0"
+    },
+    "repositories": {
+        "component": {
+            "type": "path",
+            "url": "../component"
+        }
+    }
+}
