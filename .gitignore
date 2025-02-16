@@ -1,3 +1,6 @@
 vendor/
 var/cache/*
 var/log/*
+.gitignore
+composer.json
+composer.lock
