@@ -12,7 +12,7 @@
             "dist": {
                 "type": "path",
                 "url": "../component",
-                "reference": "d9b6ffe6c6aaacf7c31f954a5ac6e798aa5b11e1"
+                "reference": "145bca703262710e4ea36108bfba2ce815acc17c"
             },
             "require": {
                 "php": ">=8.2"
@@ -26,7 +26,13 @@
             "license": [
                 "MIT"
             ],
-            "description": "A simple and light PHP MVC Framework",
+            "authors": [
+                {
+                    "name": "Tailor Mavoungou",
+                    "email": "tailormavoungou@outlook.com"
+                }
+            ],
+            "description": "Verona MVC Framework Core Component",
             "transport-options": {
                 "relative": true
             }
