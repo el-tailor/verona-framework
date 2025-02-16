@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6263751370ae0e9ef66d0e39fb2b37fd",
+    "content-hash": "22ccec39cdfb6e71a359b85d9ce2993f",
     "packages": [
         {
             "name": "verona/component",
